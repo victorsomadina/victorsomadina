@@ -16,7 +16,7 @@
 
 - 💬 I help beginners get their feet into the field of Data Analysis/Data Science, so I am available to answer questions relating to descriptive and predictive analytics.
 
-- 📫 How to reach me [Email](somadinavictor12@gmail.com)
+- 📫 How to reach me Email: somadinavictor12@gmail.com
 
 - ⚡ Fun fact: Chelsea Fan
 
