@@ -10,7 +10,7 @@
 
 - 🌱 Staying current in the dynamic field of AI is crucial. Daily learning ensures adaptation to evolving technologies, methodologies, and breakthroughs. Continuous education enhances expertise, fostering innovation and proficiency in navigating the rapidly changing landscape of artificial intelligence.
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://linktr.ee/victorsomadina)
+- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/victorsomadina?tab=repositories))
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@victorSom.)
 
