@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@victorSom.)
 
-- 💬 I help beginners get their feet into the field of Data Analysis/Data Scientist, so I am available to answer questions relating to descriptive and predictive analytics.
+- 💬 I help beginners get their feet into the field of Data Analysis/Data Science, so I am available to answer questions relating to descriptive and predictive analytics.
 
 - 📫 How to reach me [Email](somadinavictor12@gmail.com)
 
