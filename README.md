@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorsomadina&label=Profile%20views&color=0e75b6&style=flat" alt="victorsomadina" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victorsomadina" alt="victorsomadina" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/vicSomadina" target="blank"><img src="https://img.shields.io/twitter/follow/victor somadina?logo=twitter&style=for-the-badge" alt="victor somadina" /></a> </p>
 
