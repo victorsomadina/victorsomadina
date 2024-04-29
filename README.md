@@ -1,13 +1,6 @@
 <h1 align="left">Hello!, nice to meet you👋, my name is Victor Somadina</h1>
 <h3 align="left">I am a Data Scientist, a Biochemist and a Football Lover.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=victorsomadina&label=Profile%20views&color=0e75b6&style=flat" alt="victorsomadina" /> </p>
-
-
-<p align="left"> <a href="https://twitter.com/vicSomadina" target="blank"><img src="https://img.shields.io/twitter/follow/victor somadina?logo=twitter&style=for-the-badge" alt="victor somadina" /></a> </p>
-
-- 🌱 Staying current in the dynamic field of AI is crucial. Daily learning ensures adaptation to evolving technologies, methodologies, and breakthroughs. Continuous education enhances expertise, fostering innovation and proficiency in navigating the rapidly changing landscape of artificial intelligence.
-
 - 👨‍💻 All of my projects are available at [Portfolio](https://github.com/victorsomadina?tab=repositories)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@victorSom.)
