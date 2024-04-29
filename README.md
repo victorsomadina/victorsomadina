@@ -29,4 +29,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorsomadina&show_icons=true&locale=en&layout=compact" alt="victorsomadina" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victorsomadina&" alt="victorsomadina" /></p>
