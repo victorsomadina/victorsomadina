@@ -1,8 +1,6 @@
 <h1 align="left">Hello!, nice to meet you👋, my name is Victor Somadina</h1>
 <h3 align="left">I am a Data Scientist, and a Football Lover.</h3>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/victorsomadina?tab=repositories)
-
 - 📝 I regularly write articles on [Medium](https://medium.com/@victorSom.)
 
 - 💬 I help beginners get their feet into the field of Data Analysis/Data Science, so I am available to answer questions relating to descriptive and predictive analytics.
