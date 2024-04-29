@@ -7,7 +7,7 @@
 
 - 📫 How to reach me Email: somadinavictor12@gmail.com
 
-- ⚡ Fun fact: Chelsea Fan
+- ⚡ Fun fact: I am a Chelsea Fan
 
 ## Connect with me
 <p align="left">
