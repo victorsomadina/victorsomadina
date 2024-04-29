@@ -1,5 +1,5 @@
 <h1 align="left">Hello!, nice to meet you👋, my name is Victor Somadina</h1>
-<h3 align="left">I am a Data Scientist, a Biochemist and a Football Lover.</h3>
+<h3 align="left">I am a Data Scientist, and a Football Lover.</h3>
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://github.com/victorsomadina?tab=repositories)
 
