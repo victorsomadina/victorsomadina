@@ -1,9 +1,9 @@
 <h1 align="left">Hello!, nice to meet you👋, my name is Victor Somadina</h1>
-<h3 align="left">I am a Data Scientist, and a Football Lover.</h3>
+<h3 align="left">I am an AI Developer and a Backend Engineer.</h3>
+<h3 align="left">Fun fact: I am a football lover.</h3>
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@victorSom.)
 
-- 💬 I help beginners get their feet into the field of Data Analysis/Data Science, so I am available to answer questions relating to descriptive and predictive analytics.
+- 💬 I help beginners get their feet into the field of Data Science, AI/Backend Developement, so I am available to answer questions relating to agents, building scalable and maintainable models and systems.
 
 - 📫 How to reach me Email: somadinavictor12@gmail.com
 
